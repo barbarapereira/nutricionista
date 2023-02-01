@@ -1,14 +1,21 @@
 {
   "name": "nutricionista",
   "version": "1.0.0",
-  "description": "Sistema para aprender javascript",
+  "description": "Aplicativo para se aprender javascript avancado",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Guido Filho",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarapereira/nutricionista.git"
+  },
+  "author": "Bárbara Pereira",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbarapereira/nutricionista/issues"
+  },
+  "homepage": "https://github.com/barbarapereira/nutricionista#readme",
   "dependencies": {
     "lite-server": "^2.6.1"
   }
